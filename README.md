@@ -14,7 +14,10 @@
   </a>
 </div>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=averagechaos.averagechaos&left_text=Views"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=averagechaos.averagechaos&left_text=Views"  />
+</div>
+
 <h1></h1>
 
 ###
