@@ -12,10 +12,10 @@
   <a href="https://www.twitch.tv/averagechaos_">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441a5&logoColor=white" height="25" alt="instagram logo"  />
   </a>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=averagechaos.averagechaos&left_text=Views"  />
-  <h1></h1>
 </div>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=averagechaos.averagechaos&left_text=Views"  />
+<h1></h1>
 
 ###
 
