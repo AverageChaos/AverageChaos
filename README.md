@@ -28,7 +28,7 @@
   <br>
   <br>- 📚 I’m a student in computer science.
   <br>- 💻 I develop mods and plugins for Unity & Unreal games.
-  <br>- 🎮 In my free time I like to play video games, survival & MMOs are my favorites.
+  <br>- 🎮 In my free time, I like to play video games. Survival games and MMOs are my favorites.
 </p>
 
 ###
